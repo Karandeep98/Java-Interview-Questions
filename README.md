@@ -1,6 +1,6 @@
 # Java-Interview-Questions
 1)
-// Main.java 
+
 public class Main 
 { 
     public static void gfg(String s) 
@@ -16,10 +16,10 @@ public class Main
     { 
         gfg(null); 
     } 
-} //end class 
+}  
 
 2)
-// Main.java 
+
 public class Main 
 { 
     public static void gfg(String s) 
@@ -39,9 +39,9 @@ public class Main
     { 
         gfg(null); 
     } 
-} //end class 
+}  
 3)Important
-// Main.java 
+
 public class Main 
 { 
     public static void main(String args[]) 
@@ -56,7 +56,7 @@ public class Main
         sb1.append("d"); 
         System.out.println(sb1 + " " + sb2 + " " + (sb1 == sb2)); 
     } 
-} //end class 
+}
 
 4)class First 
 { 
